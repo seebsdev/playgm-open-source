@@ -17,7 +17,7 @@ Das Team von PlayGM hatte erst den ersten Akt dieser Geschichte geschrieben. Doc
 Für die Programmierer hier:
 PlayGM wurde in PHP, HTML, CSS und teilweise JavaScript geschrieben. Die meisten Sachen wurden von einem Menschen programmiert, etwas weniger jedoch von KI. 
 
-PlayGM wurde am 24. Oktober 2023 in Deutschland gegründet und im Juni 2024 an Seebs übertragen. Wir erhalten etwa 600 Anfragen pro Woche und haben insgesamt (Stand: 28.06.2024 um 18:22:12) 474.785 Anfragen bearbeitet!
+PlayGM wurde am 24. Oktober 2023 in Deutschland gegründet und im Juni 2024 an Seebs übertragen. Wir erhalten etwa 600 Anfragen pro Woche und haben insgesamt (Stand: 28.06.2024 um 18:22:12) 474.785 Anfragen auf der Webseite!
 
 Es gibt viele Sicherheitslücken, deshalb könnt ihr gerne unter [seebs.one/support](https://seebs.one/support) den Support von Seebs (gleichzeitig auch von PlayGM) kontaktieren, falls ihr Sicherheitslücken findet. Vielen Dank!
 
